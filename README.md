@@ -1,11 +1,6 @@
 # 💫 About Me
-Hi there! I'm **Ramazan**, a developer passionate about building modern, reliable, and meaningful software.  
-I love clean code, thoughtful design, and technologies that make a real impact.  
+I'm **Ramazan**, a **Full-Stack Developer** focused on scalable architecture, performance, and clean design.
 <br/>
-Currently, I’m focused on **web development, .NET, and backend engineering**,  
-but I’m always exploring new areas and learning every day.  
-<br/>
-My goal is not just to write code — but to **create solutions that matter and inspire.**
 
 ---
 
